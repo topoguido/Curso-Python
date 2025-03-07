@@ -1,54 +1,87 @@
-{
-    "nombre": "Biblioteca Central",
-    "libros": [
-        {
-            "titulo": "Cien años de soledad",
-            "autor": "Gabriel García Márquez",
-            "genero": "Realismo mágico"
-        },
-        {
-            "titulo": "1984",
-            "autor": "George Orwell",
-            "genero": "Ciencia ficción"
-        },
-        {
-            "titulo": "Don Quijote de la Mancha",
-            "autor": "Miguel de Cervantes",
-            "genero": "Novela"
-        },
-        {
-            "titulo": "Orgullo y prejuicio",
-            "autor": "Jane Austen",
-            "genero": "Romance"
-        },
-        {
-            "titulo": "El principito",
-            "autor": "Antoine de Saint-Exupéry",
-            "genero": "Fábula"
-        }
-    ],
-
-    "nombre": "Biblioteca del Saber",
-    "libros": [
-        {
-            "titulo": "El Hobbit",
-            "autor": "J.R.R. Tolkien",
-            "genero": "Fantasía"
-        },
-        {
-            "titulo": "Crimen y castigo",
-            "autor": "Fiódor Dostoyevski",
-            "genero": "Novela psicológica"
-        },
-        {
-            "titulo": "La odisea",
-            "autor": "Homero",
-            "genero": "Épica"
-        },
-        {
-            "titulo": "Matar a un ruiseñor",
-            "autor": "Harper Lee",
-            "genero": "Ficción"
-        }
-      ]
-}
+[
+    {
+        "id": 1,
+        "libros": [
+            {
+                "titulo": "Cien años de soledad",
+                "autor": "Gabriel García Márquez",
+                "genero": "Realismo mágico"
+            },
+            {
+                "titulo": "1984",
+                "autor": "George Orwell",
+                "genero": "Ciencia ficción"
+            },
+            {
+                "titulo": "Don Quijote de la Mancha",
+                "autor": "Miguel de Cervantes",
+                "genero": "Novela"
+            },
+            {
+                "titulo": "Orgullo y prejuicio",
+                "autor": "Jane Austen",
+                "genero": "Romance"
+            },
+            {
+                "titulo": "El principito",
+                "autor": "Antoine de Saint-Exupéry",
+                "genero": "Fábula"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "libros": [
+            {
+                "titulo": "El Hobbit",
+                "autor": "J.R.R. Tolkien",
+                "genero": "Fantasía"
+            },
+            {
+                "titulo": "Crimen y castigo",
+                "autor": "Fiódor Dostoyevski",
+                "genero": "Novela psicológica"
+            },
+            {
+                "titulo": "La odisea",
+                "autor": "Homero",
+                "genero": "Épica"
+            },
+            {
+                "titulo": "Matar a un ruiseñor",
+                "autor": "Harper Lee",
+                "genero": "Ficción"
+            }
+        ]
+    },
+    {
+        "id": 3,
+         "libros": [
+            {
+                "titulo": "Fundación",
+                "autor": "Isaac Asimov",
+                "genero": "Ciencia ficción"
+            },
+            {
+                "titulo": "Los miserables",
+                "autor": "Victor Hugo",
+                "genero": "Drama"
+            },
+            {
+                "titulo": "Ulises",
+                "autor": "James Joyce",
+                "genero": "Modernismo"
+            },
+            {
+                "titulo": "Drácula",
+                "autor": "Bram Stoker",
+                "genero": "Terror"
+            },
+            {
+                "titulo": "Las aventuras de Sherlock Holmes",
+                "autor": "Arthur Conan Doyle",
+                "genero": "Misterio"
+            }
+         ]
+     }
+]

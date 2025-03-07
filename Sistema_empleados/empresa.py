@@ -14,6 +14,4 @@ class Empresa:
         for empleado in self.__empleados:
             if empleado.departamento == depto:
                 contador +=1
-
-        #return self.empleados.count(depto)
         return contador

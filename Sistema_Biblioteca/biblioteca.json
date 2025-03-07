@@ -1,0 +1,14 @@
+[
+    {
+        "id": 1,
+        "nombre": "Biblioteca Central"
+    },
+    {
+        "id": 2,
+        "nombre": "Biblioteca izquierda"
+    },
+    {
+        "id": 3,
+        "nombre": "Biblioteca derecha"
+    }
+]
